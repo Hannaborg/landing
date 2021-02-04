@@ -1,0 +1,20 @@
+.banner {
+  background-image: url(../../images/ocean.jpg);
+  opacity: .7;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: #3C4E4E;
+  font-size: 60px;
+  font-weight: 700;
+  opacity: 0.8
+}
+
+.banner p {
+  color: black;
+  font-size: 20px;
+  margin: 5px;
+}
